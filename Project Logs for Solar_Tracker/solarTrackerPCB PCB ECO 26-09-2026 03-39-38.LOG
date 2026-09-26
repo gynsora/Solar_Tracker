@@ -1,0 +1,12 @@
+Added Component: Designator=R1(RESC0603X26X15NL03T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity / AMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRG0201F10K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC0603X26X15NL03T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity / AMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRG0201F10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLDR1_2 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=NetLDR2_2 Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Member To Class: ClassName=solarTrackSheet Member=Component R1 CRG0201F10K
+Added Member To Class: ClassName=solarTrackSheet Member=Component R2 CRG0201F10K

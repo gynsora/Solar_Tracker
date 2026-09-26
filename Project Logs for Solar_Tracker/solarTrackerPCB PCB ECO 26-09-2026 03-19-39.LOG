@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=GND Pin=LDR1-2
+Removed Pin From Net: NetName=GND Pin=LDR2-2
+Added Component: Designator=J2(PHOE-1725656-2)
+Add component (AddParameter): Name = "Colour"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Content"; Value = "250pc(s)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/1725656-Phoenix-Contact-datasheet-5302866.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Apr-08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Industrial packaging"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part No."; Value = "1725656"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.phoenixcontact.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "MPT0,5/2-2,54"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=NetJ1_1 Pin=LDR1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-2
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=LDR2-1
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetLDR1_2 Pin=LDR1-2
+Added Net: Name=NetLDR1_2
+Added Pin To Net: NetName=NetLDR2_2 Pin=LDR2-2
+Added Net: Name=NetLDR2_2
+Added Member To Class: ClassName=solarTrackSheet Member=Component J2 1725656
+Add Class Member: Failed to add class member : Component R1 Resistor
+Add Class Member: Failed to add class member : Component R2 Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor

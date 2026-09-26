@@ -1,0 +1,14 @@
+# Fichiers temporaires Altium
+History/
+__Previews/
+*.PrjPcbStructure
+*.PrjPcbVariants
+*.wrk
+
+# Fichiers de sortie générés
+Output/
+*.zip
+
+# Système
+.DS_Store
+Thumbs.db
