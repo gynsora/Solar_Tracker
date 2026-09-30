@@ -50,6 +50,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\..\LIB_LM393P\LM393P\Altium\LM393P.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AOXXMPVK
+
+[Document2]
 DocumentPath=..\..\NSL_19M51\Altium\NSL-19M51\NSL-19M51.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -66,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DJXAGDXM
 
-[Document2]
+[Document3]
 DocumentPath=solarTrackSheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +100,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UNIBZRQA
 
-[Document3]
+[Document4]
+DocumentPath=..\..\LIB_LM393P\LM393P\Altium\LM393P.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BVOIIWHT
+
+[Document5]
 DocumentPath=..\..\NSL_19M51\Altium\NSL-19M51\NSL-19M51.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ASWECIQD
 
-[Document4]
+[Document6]
 DocumentPath=solarTrackerPCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SNFCXCQP
 
-[Document5]
+[Document7]
 DocumentPath=..\..\resistor_10k_1percent\resistor_10k_1percent\resistor_10k_1percent.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HBBYAKPE
 
-[Document6]
+[Document8]
 DocumentPath=..\..\resistor_10k_1percent\resistor_10k_1percent\resistor_10k_1percent.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -821,6 +855,16 @@ Type158=1
 Type159=1
 Type160=1
 Type161=1
+Type162=1
+Type163=1
+Type164=1
+Type165=1
+Type166=1
+Type167=1
+Type168=1
+Type169=1
+Type170=1
+Type171=1
 
 [Difference Levels]
 Type1=1
@@ -911,6 +955,13 @@ Type85=1
 Type86=1
 Type87=1
 Type88=1
+Type89=1
+Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
 
 [Electrical Rules Check]
 Type1=1
